@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8,
+      "name": "Fern",
+      "image": "https://deadline.com/wp-content/uploads/2020/08/ph_unit_02795.jpg?w=296&h=166&crop=1",
+      "price": "11.11"
     }
   ]
 }

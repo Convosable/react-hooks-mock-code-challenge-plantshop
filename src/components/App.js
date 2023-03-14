@@ -12,3 +12,12 @@ function App() {
 }
 
 export default App;
+
+
+// App
+      // Header
+      // Plant Page
+                  // New PLant FOrm
+                  // Search
+                  // Plant List
+                                // Plant card
